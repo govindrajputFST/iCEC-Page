@@ -49,7 +49,7 @@ Don’t forget to add a clear and descriptive commit message:
 git commit -m "Add feature: your-feature-name"
 ```
 
-Push Your Changes 🚀
+Push Your Changes 🚀 
 
 ```bash
 git push origin feature/your-feature-name
@@ -79,7 +79,7 @@ docker build -t icec-app .
 docker run -p 8000:8000 icec-app
 ```
 
-You can now access the app at port 8000.
+You can now access the app at port 8000 directly.
 
 Open a Pull Request 🔀
 
